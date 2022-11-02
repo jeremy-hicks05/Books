@@ -1,0 +1,12 @@
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\bin\Debug\net6.0\Northwind.Common.deps.json
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\bin\Debug\net6.0\Northwind.Common.dll
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\bin\Debug\net6.0\Northwind.Common.pdb
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.csproj.AssemblyReference.cache
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.GeneratedMSBuildEditorConfig.editorconfig
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.AssemblyInfoInputs.cache
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.AssemblyInfo.cs
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.csproj.CoreCompileInputs.cache
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.dll
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\refint\Northwind.Common.dll
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.pdb
+V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.Common\obj\Debug\net6.0\ref\Northwind.Common.dll

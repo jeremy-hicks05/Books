@@ -1,0 +1,16 @@
+﻿@using Packt.Shared
+@model HomeIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>We have had @Model.VisitorCount visitors this month.</p>
+
+    @foreach(Category c in Model.Categories)
+    {
+        <p>@c.CategoryName</p>
+    }
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
