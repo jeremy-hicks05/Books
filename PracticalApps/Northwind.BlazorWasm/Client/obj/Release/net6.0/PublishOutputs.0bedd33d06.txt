@@ -1,1 +1,0 @@
-V:\Books\C#\CSharp10Book\Chapter13\PracticalApps\Northwind.BlazorWasm\Client\bin\Release\net6.0\publish\web.config
